@@ -1,0 +1,23 @@
+{
+  "name": "monmons-send-message-bot",
+  "version": "1.0.0",
+  "description": "bot for sending test messages to test other bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonMon201/send-message-bot.git"
+  },
+  "author": "MonMon201",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonMon201/send-message-bot/issues"
+  },
+  "homepage": "https://github.com/MonMon201/send-message-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
